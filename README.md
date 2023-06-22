@@ -1,4 +1,4 @@
-## Ex-21 Implement the keyword Case Cross Join full outer join
+## Ex-08 Implement the keyword Case Cross Join full outer join
 ## AIM:-
 To write a sql query to perform keyword- Case,Cross Join,full outer join in SQL.
 
