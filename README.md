@@ -1,4 +1,4 @@
-# Ex-08-Implement-the-keyword-Case-Cross-Join-full-outer-join
+## Ex-21 Implement the keyword Case Cross Join full outer join
 ## AIM:-
 To write a sql query to perform keyword- Case,Cross Join,full outer join in SQL.
 
@@ -16,6 +16,8 @@ Insert Value to the tables.
 Perform Case on Employees and Cross Join,full outer join on TableA,TableB.
 
 ## PROGRAM:-
+#### Developed By : Sarankumar J
+#### Register Number : 212221230087
 ```sql
 CREATE DATABASE KEY_FUNCTION;
 USE KEY_FUNCTION;
